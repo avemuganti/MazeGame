@@ -4,6 +4,8 @@ You are a hero (the yellow dot) navigating through a toroidal maze, trying to fi
 
 IMPORTANT!!! PLEASE READ!!!
 
+MARS (MIPS Assembly and Runtime Simulator) was used to run this program. Before running, you must open the bitmap display to see any results.
+
 To run this program, please pull up the "Bitmap Display" and the "Keyboard and Display MMIO Simulator" under "Tools".
 Connect the Keyboard and Display MMIO Simulator to MIPS.
 
